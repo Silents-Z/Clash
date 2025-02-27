@@ -2,9 +2,6 @@
 
 # 自定义强制直连域名
 DOMAIN-SUFFIX,hifini.com
-DOMAIN-SUFFIX,cloudflare-cn.com
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,synology.me
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,cloudflare
