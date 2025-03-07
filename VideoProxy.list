@@ -7,6 +7,9 @@ DOMAIN-KEYWORD,jable
 DOMAIN-KEYWORD,sehuatang
 DOMAIN-KEYWORD,theporndude
 
+# 群晖 NAS 内网连接域名
+DOMAIN-KEYWORD,synology
+
 # 内容：YouTube 数量：17条
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
