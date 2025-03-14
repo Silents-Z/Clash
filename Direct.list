@@ -3,5 +3,6 @@
 # 自定义强制直连域名
 DOMAIN-SUFFIX,hifini.com
 
-# 域名关键字匹配
+# 自定义强制直连域名关键字匹配
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,ok-skins
